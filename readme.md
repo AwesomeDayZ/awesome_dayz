@@ -18,8 +18,6 @@ An awesome list of docs, tools and tutorials about DayZ!
 
 <!-- description -->
 
-...
-
 </div>
 
 <!-- TOC -->
@@ -39,8 +37,8 @@ An awesome list of docs, tools and tutorials about DayZ!
 
 ## Tools
 
-- [DayZ Tools](https://store.steampowered.com/app/830640/DayZ_Tools/) - Official DayZ Tools
-- [Mikero's Tools](https://mikero.bytex.digital) - Mikero's Tools for DayZ and Arma modding
+- [DayZ Tools](https://store.steampowered.com/app/830640/DayZ_Tools/) - Official DayZ Tools.
+- [Mikero's Tools](https://mikero.bytex.digital) - Mikero's Tools for DayZ and Arma modding.
 - [L3DT](http://www.bundysoft.com/docs/doku.php?id=l3dt:about) - Windows application for generating terrain maps and textures.
 
 ## Forums
@@ -50,16 +48,16 @@ An awesome list of docs, tools and tutorials about DayZ!
 ## Documentation
 
 - [DayZ Wiki](https://community.bistudio.com/wiki/Category:DayZ) - Official DayZ wiki
-- [Enforce Script Syntax](https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax) - Syntax documentation for Enforce Script
-- [Server Configuration](https://community.bistudio.com/wiki/DayZ:Server_Configuration) - Documenttion for server configuration
+- [Enforce Script Syntax](https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax) - Syntax documentation for Enforce Script.
+- [Server Configuration](https://community.bistudio.com/wiki/DayZ:Server_Configuration) - Documenttion for server configuration.
 <!-- END CONTENT -->
 
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-- [Twitter - @DayZ](https://twitter.com/DayZ) - Official DayZ Twitter account
-- [Twitter - @bohemiainteract](https://twitter.com/bohemiainteract) - Official Twitter account of Bohemia Interactive
+- [Twitter - @DayZ](https://twitter.com/DayZ) - Official DayZ Twitter account.
+- [Twitter - @bohemiainteract](https://twitter.com/bohemiainteract) - Official Twitter account of Bohemia Interactive.
   
 
 - Who else should we be following!?
