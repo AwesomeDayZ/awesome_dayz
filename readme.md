@@ -41,6 +41,7 @@ An awesome list of docs, tools and tutorials about DayZ!
 
 - [DayZ Tools](https://store.steampowered.com/app/830640/DayZ_Tools/) - Official DayZ Tools
 - [Mikero's Tools](https://mikero.bytex.digital) - Mikero's Tools for DayZ and Arma modding
+- [L3DT](http://www.bundysoft.com/docs/doku.php?id=l3dt:about) - Windows application for generating terrain maps and textures.
 
 ## Forums
 
