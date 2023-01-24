@@ -43,11 +43,11 @@ An awesome list of docs, tools and tutorials about DayZ!
 
 ## Forums
 
-- [DayZ Forum](https://forums.dayz.com) - Official DayZ forums
+- [DayZ Forum](https://forums.dayz.com) - Official DayZ forums.
 
 ## Documentation
 
-- [DayZ Wiki](https://community.bistudio.com/wiki/Category:DayZ) - Official DayZ wiki
+- [DayZ Wiki](https://community.bistudio.com/wiki/Category:DayZ) - Official DayZ wiki.
 - [Enforce Script Syntax](https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax) - Syntax documentation for Enforce Script.
 - [Server Configuration](https://community.bistudio.com/wiki/DayZ:Server_Configuration) - Documenttion for server configuration.
 <!-- END CONTENT -->
